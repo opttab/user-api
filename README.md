@@ -1,8 +1,7 @@
 # Opttab User API
 
 <div align="center">
-
-![Opttab Logo](https://opttab.com/assets/img/logo.png)
+  <h1>🚀 Opttab</h1>
 
 **Official REST API for Opttab Platform**
 
