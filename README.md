@@ -1,7 +1,7 @@
 # Opttab User API
 
 <div align="center">
-  <img src="https://opttab.com/upload/images/logo/JPbB-sticky-opttab-logo.svg" alt="Opttab Logo" width="200" height="60">
+  <img src="https://opttab.com/upload/images/logo/github/Opttab%20Website%20Logo%20Black%20(1530%20x%20600%20px).png" alt="Opttab Logo" width="200" height="80">
 
 **Official REST API for Opttab Platform**
 
